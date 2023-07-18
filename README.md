@@ -7,4 +7,4 @@
 
 <h4>Chapter 01. Shadow Mapping</h4>
 <b>Blog</b> : https://song-ift.tistory.com/448
-<br><b>Branch</b> : https://github.com/developeSHG/DirectX12-Shadow-Mapping/commits/main
+<br><b>History</b> : https://github.com/developeSHG/DirectX12-Shadow-Mapping/commits/main
